@@ -1,3 +1,5 @@
+documentation
+
 # Object files
 *.o
 *.ko
@@ -21,7 +23,7 @@
 *.dylib
 
 # Executables
-*.exe
+# *.exe
 *.out
 *.app
 *.i*86
